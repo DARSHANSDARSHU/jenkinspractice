@@ -28,6 +28,14 @@ public void orgttest_3() {
 		System.out.println("org_3 is created");
 		
 	}
+	
+	@Test
+	
+public void orgttest_4() {
+		
+		System.out.println("org_3 is created");
+		
+	}
 
 
 }
